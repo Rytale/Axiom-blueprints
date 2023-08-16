@@ -4,7 +4,8 @@
 
 ![image](https://github.com/Rytale/Axiom-blueprints/assets/81533864/92474a35-efe6-45aa-921a-9dd8fe431949)
 
-
+# Total Downloads
+[![Github All Releases](https://img.shields.io/github/downloads/Rytale/Axiom-blueprints/total.svg)]()
 
 # Axiom Blueprints
 Blueprints are a system for saving and loading prefabricated assets. They are similar to schematics, but with a different structure optimized for searching and viewing.
