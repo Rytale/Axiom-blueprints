@@ -8,7 +8,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/Rytale/Axiom-blueprints/total.svg)]()
 
 
-#Disclaimer of Affiliation with Axiom and Provision of Resources
+# Disclaimer of Affiliation with Axiom and Provision of Resources
 
 I am writing to formally notify all parties concerned that I, Sheet_of_paper, am not affiliated with Axiom in any official capacity. I am an independent individual interested in providing resources for the development of (blueprints) related to the Axiom modding/building community.
 
