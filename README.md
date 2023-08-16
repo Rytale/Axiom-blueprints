@@ -7,6 +7,22 @@
 # Total Downloads
 [![Github All Releases](https://img.shields.io/github/downloads/Rytale/Axiom-blueprints/total.svg)]()
 
+
+#Disclaimer of Affiliation with Axiom and Provision of Resources
+
+I am writing to formally notify all parties concerned that I, Sheet_of_paper, am not affiliated with Axiom in any official capacity. I am an independent individual interested in providing resources for the development of (blueprints) related to the Axiom modding/building community.
+
+It is important to clarify that my involvement is purely voluntary and not in any way associated with Axiom or any parent company. Any resources, assistance, or guidance I provide for the purpose of mod development within the Axiom modding community are done solely on an individual basis. These resources are intended to contribute to the community's growth, encourage creative exploration, and enhance the overall modding experience.
+
+I am not a representative, employee, or official spokesperson of Axiom. Any opinions, actions, or contributions I undertake within the modding community are my own and should not be construed as reflective of Axiom's views, policies, or endorsements.
+
+This notice is intended to prevent any misconceptions or misunderstandings about my affiliation with Axiom. It is my aim to ensure transparency and maintain the integrity of my role within the modding community. If there are any concerns, questions, or clarifications required regarding my involvement or the resources I provide, I encourage interested parties to contact me directly using the contact information provided below.
+
+Thank you for your understanding and cooperation.
+
+#Contact information
+[![Discord Presence](https://lanyard.cnrad.dev/api/:706984059183693854)](https://discord.com/users/:706984059183693854)
+
 # Axiom Blueprints
 Blueprints are a system for saving and loading prefabricated assets. They are similar to schematics, but with a different structure optimized for searching and viewing.
 The files listed inside of Sheets_utils were originally uploaded by the user Mr_wizz [Original schematics](https://www.planetminecraft.com/project/tree-pack-repository-bundle---build-your-own-trees-optimized-map/) and edited by Buildingtomorrow (sheet_of_paper)
