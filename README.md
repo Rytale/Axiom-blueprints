@@ -51,19 +51,19 @@ to discuss what you would like to change.
 # Usage Policy
 I am writing to establish clear usage guidelines for the asset pack that I am providing to the Axiom modding community. It is important to emphasize that this resource pack is made available for the purpose of enhancing the building experience and fostering creative exploration within the Axiom community.
 
-Usage of Resource Pack:
+**Usage of Resource Pack:**
 Feel free to utilize any files included in this resource pack to enhance your projects within the Axiom mod. The intention behind sharing these resources is to facilitate and contribute to the collective growth of the building ecosystem.
 
-Prohibition of Sale:
+**Prohibition of Sale:**
 It is strictly prohibited to sell the entire asset pack as a whole or to distribute its contents as separate paid items. The asset pack, in its entirety, is intended to remain freely accessible to all users within the Axiom modding community.
 
-Non-Commercial Distribution:
+**Non-Commercial Distribution:**
 The resource pack is offered for non-commercial purposes. It is meant to be freely available for all users to use, experiment with, and learn from. Users are not permitted to directly profit from the distribution or sale of the resource pack itself.
 
-Exclusion of Paid Builds:
+**Exclusion of Paid Builds:**
 While the asset pack should generally remain free for all users, it is permissible to incorporate its contents into projects that have a commercial purpose, such as paid mod builds. If you intend to use the resource pack in a project that generates profit, you are welcome to do so.
 
-Attribution:
+**Attribution:**
 While not mandatory, proper attribution to the resource pack creator is appreciated. This can be done by mentioning "Mr_wizz" or providing a reference to the original resource pack.
 
 By adhering to these guidelines, we ensure a harmonious and respectful usage of the provided resources within the Axiom modding community. It is my sincere hope that these resources contribute positively to the growth and innovation within our shared space.
