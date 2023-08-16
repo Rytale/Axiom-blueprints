@@ -48,5 +48,5 @@ Once you have Blueprints, you can view them in the Blueprint Browser. You'll be 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-
+# Free use policy
 Feel free to use any files found in this pack freely, do not try and sell the pack whole or split up. This pack should remain free for all users, this does not include use inside paid builds. If you are using this in a project and intend to profit off it feel free! 
