@@ -36,7 +36,7 @@ If you have any issues with the pack or any suggestions please feel free to send
 ## Installation
 
 Navigate to the axiom mods blueprint folder and simply drop the included zip file found in the releases tab of this github. 
-Unzip the folder and delete the origianl zip.
+Unzip the folder and delete the original zip.
 Enjoy!
 
 
