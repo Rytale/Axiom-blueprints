@@ -21,7 +21,7 @@ This notice is intended to prevent any misconceptions or misunderstandings about
 Thank you for your understanding and cooperation.
 
 #Contact information
-[![Discord Presence](https://lanyard.cnrad.dev/api/:706984059183693854)](https://discord.com/users/:706984059183693854)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:706984059183693854)](https://discord.com/users/:70698405918369385)
 
 # Axiom Blueprints
 Blueprints are a system for saving and loading prefabricated assets. They are similar to schematics, but with a different structure optimized for searching and viewing.
