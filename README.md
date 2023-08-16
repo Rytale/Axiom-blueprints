@@ -1,6 +1,6 @@
 # Axiom Blueprints
 Blueprints are a system for saving and loading prefabricated assets. They are similar to schematics, but with a different structure optimized for searching and viewing.
-The files listed inside of Sheets_utils were originally uploaded by the user Mr_wizz [Originall schematics](https://www.planetminecraft.com/project/tree-pack-repository-bundle---build-your-own-trees-optimized-map/) and edited by Buildingtomorrow (sheet_of_paper)
+The files listed inside of Sheets_utils were originally uploaded by the user Mr_wizz [Original schematics](https://www.planetminecraft.com/project/tree-pack-repository-bundle---build-your-own-trees-optimized-map/) and edited by Buildingtomorrow (sheet_of_paper)
 
 If you have any issues with the pack or any suggestions please feel free to send me a message on discord my user is sheet_of_paper
 
