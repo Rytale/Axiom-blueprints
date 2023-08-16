@@ -1,3 +1,10 @@
+
+
+
+![image](https://github.com/Rytale/Axiom-blueprints/assets/81533864/92474a35-efe6-45aa-921a-9dd8fe431949)
+
+
+
 # Axiom Blueprints
 Blueprints are a system for saving and loading prefabricated assets. They are similar to schematics, but with a different structure optimized for searching and viewing.
 The files listed inside of Sheets_utils were originally uploaded by the user Mr_wizz [Original schematics](https://www.planetminecraft.com/project/tree-pack-repository-bundle---build-your-own-trees-optimized-map/) and edited by Buildingtomorrow (sheet_of_paper)
