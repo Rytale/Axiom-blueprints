@@ -21,8 +21,8 @@ jobs:
 
       - name: Readme Download Button Action
         env:
-          GITHUB_USER: "DenverCoder1"
-          REPO: "readme-download-button-action"
+          GITHUB_USER: "Rytale"
+          REPO: "axiom-blueprints"
           FORMAT: "zip"
           VERSION: "${{ steps.get-latest-release.outputs.tag_name }}"
           COLOR: "blue"
