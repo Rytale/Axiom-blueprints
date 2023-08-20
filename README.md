@@ -7,7 +7,8 @@
 # Project Statistics
 [![Github All Releases](https://img.shields.io/github/downloads/Rytale/Axiom-blueprints/total.svg)]() [![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Rytale/ec86f3181841f58650e8af7e302e4f2e/raw/clone.json&logo=github)](https://github.com/MShawon/github-clone-count-badge) [clones update every 24 hours]
 
-
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+<!-- END LATEST DOWNLOAD BUTTON -->
 
 # Disclaimer of Affiliation with Axiom and Provision of Resources
 
